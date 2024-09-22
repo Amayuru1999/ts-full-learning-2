@@ -1,14 +1,12 @@
 
-import './App.css'
 
-function App() {
-
-
+const App = () => {
   return (
-    <>
-
-    </>
-  )
+    <div>
+      <h1>React App</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
+
